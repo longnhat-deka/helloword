@@ -1,4 +1,4 @@
-# làm đồ án thi
+# đồ án thi
 
 ###### Nhập thông tin khách hàng:
 a = int(input("Nhập mã số khách hàng: "))
