@@ -1,5 +1,5 @@
-# helloword
-làm đồ án thi
+# làm đồ án thi
+
 ###### Nhập thông tin khách hàng:
 a = int(input("Nhập mã số khách hàng: "))
 b = str(input("Nhập địa chỉ khách hàng: "))
